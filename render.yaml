@@ -1,5 +1,5 @@
 # Exported from Render on 2025-03-23T20:49:42Z
-databases:
+databases:postgresql://denavigator_db7f_user:poEMcYPb1xOPQngYGqSH1LPcCYCa2nfY@dpg-cvg6uhdumphs73deqih0-a/denavigator_db7f
 - name: Denavigator
   databaseName: denavigator_db7f
   user: denavigator_db7f_user
