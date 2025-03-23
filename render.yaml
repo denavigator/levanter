@@ -1,0 +1,12 @@
+# Exported from Render on 2025-03-23T20:49:42Z
+databases:
+- name: Denavigator
+  databaseName: denavigator_db7f
+  user: denavigator_db7f_user
+  plan: free
+  region: oregon
+  ipAllowList:
+  - source: 0.0.0.0/0
+    description: everywhere
+  postgresMajorVersion: "16"
+version: "1"
